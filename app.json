@@ -1,8 +1,8 @@
 {
   "name": "SYBER.ALI-MD (2.1.2)",
-  "description": "syber.ali-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "description": "SYBER.ALI-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "syber.ali-md"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
   "env": {
@@ -13,7 +13,7 @@
 
     "SESSION_ID": {
       "description": "Put the session-id here.",
-      "required": false
+      "required": true
     },  
 
 
@@ -31,4 +31,7 @@
   "stack": "heroku-24"
   
   
-}
+}false
+    
+
+
